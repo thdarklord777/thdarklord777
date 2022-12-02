@@ -1,0 +1,13 @@
+.text{
+    background: #fff;
+    width: 1014px;
+    padding: 25px;
+    margin: auto;
+    border-radius: 50px
+}
+body {
+    background: linear-gradient(160deg,#70e1f5, #ffd194)
+}
+img {
+    border-radius: 50px;
+}
